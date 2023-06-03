@@ -6,5 +6,10 @@ By using this repo we will learn how to use Git and GitHub
 
 Arbon Kastrati
 
-# date 
+# date
+
 03/06/2023
+
+# continent
+
+Europe
