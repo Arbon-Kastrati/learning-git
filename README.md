@@ -13,3 +13,7 @@ Arbon Kastrati
 # continent
 
 Europe
+
+# place
+
+Kosova
